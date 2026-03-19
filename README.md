@@ -1,11 +1,11 @@
-# Vanguard-Sentry - Escudo Digital Antiextorsión
-Vanguard Sentry es un ecosistema de ciberseguridad ciudadana diseñado para proteger a emprendedores, transportistas y MYPES en el Perú frente a la extorsión y el fraude junto a nuestro agente autónomo Qawi.
+# Kenra - Escudo Digital Antiextorsión
+Kenra es un ecosistema de ciberseguridad ciudadana diseñado para proteger a emprendedores, transportistas y MYPES en el Perú frente a la extorsión y el fraude junto a nuestro agente autónomo Qawi.
 
 [![Status](https://img.shields.io/badge/Status-Beta_Launch_March_2026-gold?style=for-the-badge)](#-estado-del-lanzamiento)
 [![Architecture](https://img.shields.io/badge/Architecture-Open_Cloud_|_AI_|_Blockchain-blue?style=for-the-badge)](#-arquitectura-tecnológica)
 [![Region](https://img.shields.io/badge/Region-Perú-red?style=for-the-badge)](#-cobertura-geográfica)
 
-**Vanguard Sentry** es un ecosistema de ciberseguridad ciudadana diseñado para proteger a emprendedores, transportistas y MYPES en el Perú frente a la extorsión y el fraude. Transformamos el miedo en evidencia inmutable mediante Inteligencia Artificial y Blockchain.
+**Kenra** es un ecosistema de ciberseguridad ciudadana diseñado para proteger a emprendedores, transportistas y MYPES en el Perú frente a la extorsión y el fraude. Transformamos el miedo en evidencia inmutable mediante Inteligencia Artificial y Blockchain.
 
 ---
 
